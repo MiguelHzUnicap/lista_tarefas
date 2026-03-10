@@ -21,7 +21,7 @@ Projeto desenvolvido para praticar testes unitários utilizando Next.js 15, Type
 
 Clone o repositório
 
-git clone https://github.com/seuusuario/lista-tarefas-next
+git clone
 
 Instale as dependências
 
